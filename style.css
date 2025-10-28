@@ -209,3 +209,13 @@ footer a:hover {
     padding: 8px 14px;
   }
 }
+
+
+#theme-toggle {
+  font-size: 1.2rem;
+  background: none;
+  border: none;
+  cursor: pointer;
+  color: var(--text-color);
+  transition: transform 0.2s;
+}
